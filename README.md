@@ -1,0 +1,2 @@
+# sqlpdock
+Dockerized sqlplus
