@@ -1,0 +1,7 @@
+sqlplus.config
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
